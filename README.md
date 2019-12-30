@@ -1,0 +1,2 @@
+# React-native-Flatilist-with-basic-navigation
+A boilerplate for using react native Flat-list with basic navigation
